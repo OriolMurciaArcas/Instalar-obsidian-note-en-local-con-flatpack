@@ -1,0 +1,1 @@
+# Instalar-obsidian-note-en-local-con-flatpack
